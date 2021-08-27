@@ -41,9 +41,9 @@ setup_commands = [
 	["apt", "update"],
 	["apt", "dist-upgrade"],
 	
-	["apt install python3"],
-	["apt install python3-pip"],
-	["apt install ssh"],
+	["apt", "install", "python3"],
+	["apt", "install", "python3-pip"],
+	["apt", "install",  "ssh"],
 	
 	["useradd", args.user],
 	["mkdir", "/home/%s" % args.user]
