@@ -2,6 +2,11 @@
 # Python script to test the automation of LXC container setup
 # By Aleksey [github.com/Alekseyyy]
 
+# NOTE: that sometimes the LXC fails to deploy because the base image cannot
+#  be downloaded to the system because of some kind of GPG keyserver bug.
+#  See the following article to download base images manually:
+#  https://askubuntu.com/questions/1035504/lxc-ubuntu-18-04-unable-to-fetch-gpg-key-from-keyserver-when-trying-to-crea
+
 import lxc
 import sys
 
@@ -19,7 +24,7 @@ if not container.create("download", lxc.LXC_CREATE_QUIET, {
 	sys.exit(1)
 
 if not container.start():
-	print("Failed to start the container")
+	print("Failed to start the container", file=sys.stderr)
 	sys.exit(1)
 
 container.attach_wait(lxc.attach_run_command, ["apt", "update"])
