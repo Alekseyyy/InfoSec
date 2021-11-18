@@ -43,10 +43,9 @@ setup_commands = [
 	
 	["apt", "install", "python3"],
 	["apt", "install", "python3-pip"],
-	["apt", "install",  "ssh"],
 	
-	["useradd", args.user],
-	["mkdir", "/home/%s" % args.user]
+	["adduser", args.user],
+	["apt", "install", "ssh"]
 ]
 
 for k in setup_commands:
