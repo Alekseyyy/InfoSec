@@ -23,7 +23,3 @@
 3. Exploitation
 4. Post-Exploitation
 5. Looting
-
-## Reverse Engineering (THM)
-
-## Digital Forensics and Incident Response (*ahem* THM)
