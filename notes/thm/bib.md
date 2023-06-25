@@ -1,4 +1,4 @@
-# References
+# Works cited
 
 __Section 1: Fundamentals__
 
