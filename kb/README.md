@@ -50,6 +50,7 @@ This is a curation of resources created by others and notes that I have taken re
 ## Networking Tools
 
 * [AlgoVPN: Custom VPN Deployment Solutions](https://github.com/trailofbits/algo)
+* [How to create VPN on a VPS with Ubuntu](https://www.host-telecom.com/guides/how-to-create-vpn-on-a-vps-with-ubuntu/)
 
 ## Machine Learning
 
