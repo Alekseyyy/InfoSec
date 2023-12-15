@@ -5,13 +5,31 @@ This is a curation of resources created by others and notes that I have taken re
 
 ### Table of contents
 
-* [Capture the Flags & Wargames]()
-    * [General ctf/wargames]()
-    * [Android Reverse Engineering]()
-* [Exploit Databases, Frameworks, and General Software Exploitation]()
+* [H*cking Resource]()
+  * [Capture the Flags & Wargames]()
+* [Networking Tools]()
+* [Machine Learning]()
+* [Academic Papers]()
 * [Other Awesome Resources]()
 
-## Capture the Flags & Wargames
+## H*cking Resources
+
+<details>
+   <summary>Exploit Development, Frameworks and General Software Exploitation</summary>
+
+   * [Rhino CVE Proof-of-Concept Exploits](https://github.com/RhinoSecurityLabs/CVEs)
+   * [WAF community bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses)
+   * [FOFA Search Engine Library](https://github.com/FofaInfo/Awesome-FOFA)
+</details>
+
+<details>
+   <summary>Digital Forensics & Incident Response</summary>
+
+   * [Ghidra Basics: Manual Shellcode Analysis and C2 Extraction](https://embee-research.ghost.io/ghidra-basics-shellcode-analysis/)
+   * [InfoSec Institute: Free & open source computer forensics tools](https://resources.infosecinstitute.com/topics/digital-forensics/free-open-source-computer-forensics-tools/)
+</details>
+
+### Capture the Flags & Wargames
 
 <details>
   <summary>General ctf/wargames</summary>
@@ -29,19 +47,35 @@ This is a curation of resources created by others and notes that I have taken re
   * CyberTruck Challenge 22: [https://github.com/nowsecure/cybertruckchallenge22](https://github.com/nowsecure/cybertruckchallenge22)
 </details>
 
-## Exploit Databases, Frameworks, and General Software Exploitation
+## Networking Tools
 
-* [Rhino CVE Proof-of-Concept Exploits](https://github.com/RhinoSecurityLabs/CVEs)
+* [AlgoVPN: Custom VPN Deployment Solutions](https://github.com/trailofbits/algo)
 
-## Reverse Engineering
+## Machine Learning
 
-* [Ghidra Basics: Manual Shellcode Analysis and C2 Extraction](https://embee-research.ghost.io/ghidra-basics-shellcode-analysis/)
+* [DataCamp's Association Rule Mining in Python Tutorial](https://www.datacamp.com/tutorial/association-rule-mining-python)
+
+## Academic Publications
+
+<details>
+   <summary>Digital Forensics and Incident Response</summary>
+
+   * [Integrity, authenticity, non-repudiation, and proof of existence for long-term archiving: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0167404814001849)
+</details>
+
+* [Digital Phenotyping and Mobile Sensing: New Developments in Psychoinformatics](https://link.springer.com/book/10.1007/978-3-030-31620-4)
+* [Data Analysis in Forensic Science: A Bayesian Decision Perspective](https://www.wiley.com/en-ca/Data+Analysis+in+Forensic+Science%3A+A+Bayesian+Decision+Perspective-p-9780470998359)
 
 ## Other Awesome Resources
 
-* [Twitter: A list of Bug Bounty Platforms](https://twitter.com/hetmehtaa/status/1735023393211302112)
-* [GitHub: Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
-* [GitHub: WAF community bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses)
-* [GitHub: Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries)
-* [GitHub: Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries)
-* [GitHub: FOFA Search Engine Library](https://github.com/FofaInfo/Awesome-FOFA)
+### Twitter/X posts
+
+* [A list of Bug Bounty Platforms](https://twitter.com/hetmehtaa/status/1735023393211302112)
+
+<details>
+   <summary>Awesome GitHubs</summary>
+
+   * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+   * [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries)
+   * [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries)
+</details>
