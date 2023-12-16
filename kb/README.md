@@ -10,7 +10,10 @@ This is a curation of resources created by others and notes that I have taken re
 * [Networking Tools]()
 * [Machine Learning]()
 * [Academic Papers]()
+   * [Digital Forensics and Incident Response]()
 * [Other Awesome Resources]()
+  * [Twitter/X Posts]()
+  * [Awesome GitHubs]()
 
 ## H*cking Resources
 
@@ -20,6 +23,7 @@ This is a curation of resources created by others and notes that I have taken re
    * [Rhino CVE Proof-of-Concept Exploits](https://github.com/RhinoSecurityLabs/CVEs)
    * [WAF community bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses)
    * [FOFA Search Engine Library](https://github.com/FofaInfo/Awesome-FOFA)
+   * [Run Metasploit Framework as a Docker Container Without Installation Pains](https://zeltser.com/metasploit-framework-docker-container/)
 </details>
 
 <details>
