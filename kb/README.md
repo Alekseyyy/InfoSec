@@ -23,6 +23,7 @@ This is a curation of resources created by others and notes that I have taken re
    * [Rhino CVE Proof-of-Concept Exploits](https://github.com/RhinoSecurityLabs/CVEs)
    * [WAF community bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses)
    * [FOFA Search Engine Library](https://github.com/FofaInfo/Awesome-FOFA)
+   * [nuclei templates for WordPress websites](https://github.com/topscoder/nuclei-wordfence-cve)
 </details>
 
 <details>
