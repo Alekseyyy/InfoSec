@@ -23,7 +23,6 @@ This is a curation of resources created by others and notes that I have taken re
    * [Rhino CVE Proof-of-Concept Exploits](https://github.com/RhinoSecurityLabs/CVEs)
    * [WAF community bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses)
    * [FOFA Search Engine Library](https://github.com/FofaInfo/Awesome-FOFA)
-   * [Run Metasploit Framework as a Docker Container Without Installation Pains](https://zeltser.com/metasploit-framework-docker-container/)
 </details>
 
 <details>
@@ -51,10 +50,17 @@ This is a curation of resources created by others and notes that I have taken re
   * CyberTruck Challenge 22: [https://github.com/nowsecure/cybertruckchallenge22](https://github.com/nowsecure/cybertruckchallenge22)
 </details>
 
-## Networking Tools
+## Networking and System Administration
 
 * [AlgoVPN: Custom VPN Deployment Solutions](https://github.com/trailofbits/algo)
 * [How to create VPN on a VPS with Ubuntu](https://www.host-telecom.com/guides/how-to-create-vpn-on-a-vps-with-ubuntu/)
+* __Metasploit Setup and Configuration__:
+    * [Fedora Project's Wiki Entry on Metasploit PostgreSQL Setup](https://fedoraproject.org/wiki/Metasploit_Postgres_Setup)
+    * [Run Metasploit Framework as a Docker Container Without Installation Pains](https://zeltser.com/metasploit-framework-docker-container/)
+    * [miteshshah.github.io: How to Fix Metasploit Database Not Connected or Cache Not Built](https://miteshshah.github.io/linux/kali/how-to-fix-metasploit-database-not-connected-or-cache-not-built/)
+    * [Rapid7 article: No Database Connection](https://docs.rapid7.com/metasploit/no-database-connection/)
+    * [Rapid7 article: Uninstalling Metasploit](https://docs.rapid7.com/metasploit/uninstalling-metasploit/)
+* [hackingtutorials.org article on setting up penetration testing tools on a VPS/dedicated server](https://www.hackingtutorials.org/general-tutorials/penetration-testing-cloud/)
 
 ## Machine Learning
 
