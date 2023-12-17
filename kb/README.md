@@ -60,6 +60,7 @@ This is a curation of resources created by others and notes that I have taken re
     * [miteshshah.github.io: How to Fix Metasploit Database Not Connected or Cache Not Built](https://miteshshah.github.io/linux/kali/how-to-fix-metasploit-database-not-connected-or-cache-not-built/)
     * [Rapid7 article: No Database Connection](https://docs.rapid7.com/metasploit/no-database-connection/)
     * [Rapid7 article: Uninstalling Metasploit](https://docs.rapid7.com/metasploit/uninstalling-metasploit/)
+    * [Kali Linux article discussing setting up Metasploit](https://www.kali.org/docs/tools/starting-metasploit-framework-in-kali/)
 * [hackingtutorials.org article on setting up penetration testing tools on a VPS/dedicated server](https://www.hackingtutorials.org/general-tutorials/penetration-testing-cloud/)
 
 ## Machine Learning
