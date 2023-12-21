@@ -54,21 +54,22 @@ This is a curation of resources created by others and notes that I have taken re
 
 ## Networking and System Administration
 
-* [AlgoVPN: Custom VPN Deployment Solutions](https://github.com/trailofbits/algo)
-* [How to create VPN on a VPS with Ubuntu](https://www.host-telecom.com/guides/how-to-create-vpn-on-a-vps-with-ubuntu/)
-* [hackingtutorials.org article on setting up penetration testing tools on a VPS/dedicated server](https://www.hackingtutorials.org/general-tutorials/penetration-testing-cloud/)
-
 <details>
  <summary>Metasploit Setup and Configuration</summary>
  
-    * [Fedora Project's Wiki Entry on Metasploit PostgreSQL Setup](https://fedoraproject.org/wiki/Metasploit_Postgres_Setup)
-    * [Run Metasploit Framework as a Docker Container Without Installation Pains](https://zeltser.com/metasploit-framework-docker-container/)
-    * [miteshshah.github.io: How to Fix Metasploit Database Not Connected or Cache Not Built](https://miteshshah.github.io/linux/kali/how-to-fix-metasploit-database-not-connected-or-cache-not-built/)
-    * [Rapid7 article: No Database Connection](https://docs.rapid7.com/metasploit/no-database-connection/)
-    * [Rapid7 article: Uninstalling Metasploit](https://docs.rapid7.com/metasploit/uninstalling-metasploit/)
-    * [Kali Linux article discussing setting up Metasploit](https://www.kali.org/docs/tools/starting-metasploit-framework-in-kali/)
-    * [A SecList thread discussing how to (hopefully) fix errors with the ``auxiliary/scanner/http/crawler`` module](https://seclists.org/metasploit/2011/q1/74)
+  * [Fedora Project's Wiki Entry on Metasploit PostgreSQL Setup](https://fedoraproject.org/wiki/Metasploit_Postgres_Setup)
+  * [Run Metasploit Framework as a Docker Container Without Installation Pains](https://zeltser.com/metasploit-framework-docker-container/)
+  * [miteshshah.github.io: How to Fix Metasploit Database Not Connected or Cache Not Built](https://miteshshah.github.io/linux/kali/how-to-fix-metasploit-database-not-connected-or-cache-not-built/)
+  * [Rapid7 article: No Database Connection](https://docs.rapid7.com/metasploit/no-database-connection/)
+  * [Rapid7 article: Uninstalling Metasploit](https://docs.rapid7.com/metasploit/uninstalling-metasploit/)
+  * [Kali Linux article discussing setting up Metasploit](https://www.kali.org/docs/tools/starting-metasploit-framework-in-kali/)
+  * [A SecList thread discussing how to (hopefully) fix errors with the ``auxiliary/scanner/http/crawler`` module](https://seclists.org/metasploit/2011/q1/74)
+    
 </details>
+
+* [AlgoVPN: Custom VPN Deployment Solutions](https://github.com/trailofbits/algo)
+* [How to create VPN on a VPS with Ubuntu](https://www.host-telecom.com/guides/how-to-create-vpn-on-a-vps-with-ubuntu/)
+* [hackingtutorials.org article on setting up penetration testing tools on a VPS/dedicated server](https://www.hackingtutorials.org/general-tutorials/penetration-testing-cloud/)
 
 ## Machine Learning
 
