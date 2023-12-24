@@ -5,13 +5,15 @@ This is a curation of resources created by others and notes that I have taken re
 
 ### Table of contents
 
-* [H*cking Resource]()
+* [H*cking Resources]()
   * [Capture the Flags & Wargames]()
-* [Networking and System Administration]()
+* [Maintenance & Systems Administration]()
+  * [Programming Tidbits]()
   * [Metasploit Setup and Configuration]()
 * [Machine Learning]()
 * [Academic Papers]()
    * [Digital Forensics and Incident Response]()
+   * [Psychoinformatics and Data Science in Cybersecurity]()
 * [Other Awesome Resources]()
   * [Twitter/X Posts]()
   * [Awesome Security Firms/Organizations]()
@@ -26,6 +28,7 @@ This is a curation of resources created by others and notes that I have taken re
    * [WAF community bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses)
    * [FOFA Search Engine Library](https://github.com/FofaInfo/Awesome-FOFA)
    * [nuclei templates for WordPress websites](https://github.com/topscoder/nuclei-wordfence-cve)
+   * [How to hack a website with metasploit (Jitpukdebodin, n.d.)](https://dl.packetstormsecurity.net/papers/attack/hack-websites-with-metasploit.pdf)
 </details>
 
 <details>
@@ -50,11 +53,17 @@ This is a curation of resources created by others and notes that I have taken re
   * CyberTruck Challenge 22: [https://github.com/nowsecure/cybertruckchallenge22](https://github.com/nowsecure/cybertruckchallenge22)
 </details>
 
-## Networking and System Administration
+## Maintenance & Systems Administration
 
 * [AlgoVPN: Custom VPN Deployment Solutions](https://github.com/trailofbits/algo)
 * [How to create VPN on a VPS with Ubuntu](https://www.host-telecom.com/guides/how-to-create-vpn-on-a-vps-with-ubuntu/)
 * [hackingtutorials.org article on setting up penetration testing tools on a VPS/dedicated server](https://www.hackingtutorials.org/general-tutorials/penetration-testing-cloud/)
+
+<details>
+ <summary>Programming Tidbits</summary>
+
+ * [opensource.com: You don't know Bash: An introduction to Bash arrays](https://opensource.com/article/18/5/you-dont-know-bash-intro-bash-arrays)
+</details>
 
 <details>
  <summary>Metasploit Setup and Configuration</summary>
@@ -75,13 +84,17 @@ This is a curation of resources created by others and notes that I have taken re
 
 ## Academic Publications
 
-* [Digital Phenotyping and Mobile Sensing: New Developments in Psychoinformatics](https://link.springer.com/book/10.1007/978-3-030-31620-4)
-* [Data Analysis in Forensic Science: A Bayesian Decision Perspective](https://www.wiley.com/en-ca/Data+Analysis+in+Forensic+Science%3A+A+Bayesian+Decision+Perspective-p-9780470998359)
-
 <details>
    <summary>Digital Forensics and Incident Response</summary>
 
    * [Integrity, authenticity, non-repudiation, and proof of existence for long-term archiving: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0167404814001849)
+</details>
+
+<details>
+ <summary>Psychoinformatics and Data Science in Cybersecurity</summary>
+ 
+ * [Digital Phenotyping and Mobile Sensing: New Developments in Psychoinformatics](https://link.springer.com/book/10.1007/978-3-030-31620-4)
+ * [Data Analysis in Forensic Science: A Bayesian Decision Perspective](https://www.wiley.com/en-ca/Data+Analysis+in+Forensic+Science%3A+A+Bayesian+Decision+Perspective-p-9780470998359)
 </details>
 
 ## Other Awesome Resources
