@@ -14,6 +14,7 @@ This is a curation of resources created by others and notes that I have taken re
    * [Digital Forensics and Incident Response]()
 * [Other Awesome Resources]()
   * [Twitter/X Posts]()
+  * [Awesome Security Firms/Organizations]()
   * [Awesome GitHubs]()
 
 ## H*cking Resources
@@ -36,11 +37,8 @@ This is a curation of resources created by others and notes that I have taken re
 
 ### Capture the Flags & Wargames
 
-<details>
-  <summary>General ctf/wargames</summary>
+* CTF Sites: [https://ctfsites.github.io/](https://ctfsites.github.io/)
 
-  * CTF Sites: [https://ctfsites.github.io/](https://ctfsites.github.io/)
-</details>
 <details>
   <summary>Android Reverse Engineering</summary>
 
@@ -53,6 +51,10 @@ This is a curation of resources created by others and notes that I have taken re
 </details>
 
 ## Networking and System Administration
+
+* [AlgoVPN: Custom VPN Deployment Solutions](https://github.com/trailofbits/algo)
+* [How to create VPN on a VPS with Ubuntu](https://www.host-telecom.com/guides/how-to-create-vpn-on-a-vps-with-ubuntu/)
+* [hackingtutorials.org article on setting up penetration testing tools on a VPS/dedicated server](https://www.hackingtutorials.org/general-tutorials/penetration-testing-cloud/)
 
 <details>
  <summary>Metasploit Setup and Configuration</summary>
@@ -67,15 +69,14 @@ This is a curation of resources created by others and notes that I have taken re
     
 </details>
 
-* [AlgoVPN: Custom VPN Deployment Solutions](https://github.com/trailofbits/algo)
-* [How to create VPN on a VPS with Ubuntu](https://www.host-telecom.com/guides/how-to-create-vpn-on-a-vps-with-ubuntu/)
-* [hackingtutorials.org article on setting up penetration testing tools on a VPS/dedicated server](https://www.hackingtutorials.org/general-tutorials/penetration-testing-cloud/)
-
 ## Machine Learning
 
 * [DataCamp's Association Rule Mining in Python Tutorial](https://www.datacamp.com/tutorial/association-rule-mining-python)
 
 ## Academic Publications
+
+* [Digital Phenotyping and Mobile Sensing: New Developments in Psychoinformatics](https://link.springer.com/book/10.1007/978-3-030-31620-4)
+* [Data Analysis in Forensic Science: A Bayesian Decision Perspective](https://www.wiley.com/en-ca/Data+Analysis+in+Forensic+Science%3A+A+Bayesian+Decision+Perspective-p-9780470998359)
 
 <details>
    <summary>Digital Forensics and Incident Response</summary>
@@ -83,14 +84,29 @@ This is a curation of resources created by others and notes that I have taken re
    * [Integrity, authenticity, non-repudiation, and proof of existence for long-term archiving: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0167404814001849)
 </details>
 
-* [Digital Phenotyping and Mobile Sensing: New Developments in Psychoinformatics](https://link.springer.com/book/10.1007/978-3-030-31620-4)
-* [Data Analysis in Forensic Science: A Bayesian Decision Perspective](https://www.wiley.com/en-ca/Data+Analysis+in+Forensic+Science%3A+A+Bayesian+Decision+Perspective-p-9780470998359)
-
 ## Other Awesome Resources
 
 ### Twitter/X posts
 
 * [A list of Bug Bounty Platforms](https://twitter.com/hetmehtaa/status/1735023393211302112)
+
+<details>
+ <summary>Awesome list of security firms/organizations</summary>
+
+ * ManTech: https://www.mantech.com/
+ * HBGary (now defunct): http://web.archive.org/web/20120504003249/http://www.hbgary.com/
+ * Mandiant: https://www.mandiant.com/
+ * MAGNET Forensics: https://www.magnetforensics.com/
+ * CrowdStrike: https://www.crowdstrike.com/en-us/
+ * Kaspersky: https://usa.kaspersky.com/
+ * Rapid7: https://www.rapid7.com/
+ * Booz Allen Hamilton: https://www.boozallen.com/
+ * DarkTrace Security: https://darktrace.com/
+ * Tenable: https://www.tenable.com/
+ * Fortinet: https://www.fortinet.com/
+
+ This list borrows from [ESecurityPlanet.com](https://www.esecurityplanet.com/products/top-cybersecurity-companies/) to some extent.  
+</details>
 
 <details>
    <summary>Awesome GitHubs</summary>
