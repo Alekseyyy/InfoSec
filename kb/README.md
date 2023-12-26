@@ -30,6 +30,9 @@ This is a curation of resources created by others and notes that I have taken re
    * [nuclei templates for WordPress websites](https://github.com/topscoder/nuclei-wordfence-cve)
    * [How to hack a website with metasploit (Jitpukdebodin, n.d.)](https://dl.packetstormsecurity.net/papers/attack/hack-websites-with-metasploit.pdf)
    * [List of Exploit Development Resources](https://github.com/cranelab/exploit-development)
+   * [Automatic Exploit Generation: First of its Kind (Zhu 2019)](https://claudiazhu.medium.com/automatic-exploit-generation-first-of-its-kind-991c68da0833)
+   * [autoBOF: a Journey into Automation, Exploit Development, and Buffer Overflows](https://0x00sec.org/t/autobof-a-journey-into-automation-exploit-development-and-buffer-overflows/13415)
+   * [Automatic Exploit Prevention Technology](https://media.kaspersky.com/en/business-security/kaspersky-automatic-exploit-prevention-whitepaper.pdf)
 </details>
 
 <details>
@@ -97,6 +100,15 @@ This is a curation of resources created by others and notes that I have taken re
  
  * [Digital Phenotyping and Mobile Sensing: New Developments in Psychoinformatics](https://link.springer.com/book/10.1007/978-3-030-31620-4)
  * [Data Analysis in Forensic Science: A Bayesian Decision Perspective](https://www.wiley.com/en-ca/Data+Analysis+in+Forensic+Science%3A+A+Bayesian+Decision+Perspective-p-9780470998359)
+</details>
+
+<details>
+ <summary>Exploit Development</summary>
+
+ * [AEG: Automatic Exploit Generation (Avgerinos et al.)](https://security.ece.cmu.edu/aeg/aeg-current.pdf)
+ * [Toward an Automatic Exploit Generation Competition for an Undergraduate Binary Reverse Engineering Course (OConnor et al.)](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/iticse2022oconnor.pdf)
+ * [Automatic Heap Layout Manipulation for Exploitation (Heelan et al 2019)](https://www.usenix.org/conference/usenixsecurity18/presentation/heelan)
+ * [Automatic Patch-Based Exploit Generation is Possible: Techniques and Implications](http://bitblaze.cs.berkeley.edu/papers/apeg.pdf)
 </details>
 
 ## Other Awesome Resources
