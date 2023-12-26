@@ -29,6 +29,7 @@ This is a curation of resources created by others and notes that I have taken re
    * [FOFA Search Engine Library](https://github.com/FofaInfo/Awesome-FOFA)
    * [nuclei templates for WordPress websites](https://github.com/topscoder/nuclei-wordfence-cve)
    * [How to hack a website with metasploit (Jitpukdebodin, n.d.)](https://dl.packetstormsecurity.net/papers/attack/hack-websites-with-metasploit.pdf)
+   * [List of Exploit Development Resources](https://github.com/cranelab/exploit-development)
 </details>
 
 <details>
@@ -36,6 +37,7 @@ This is a curation of resources created by others and notes that I have taken re
 
    * [Ghidra Basics: Manual Shellcode Analysis and C2 Extraction](https://embee-research.ghost.io/ghidra-basics-shellcode-analysis/)
    * [InfoSec Institute: Free & open source computer forensics tools](https://resources.infosecinstitute.com/topics/digital-forensics/free-open-source-computer-forensics-tools/)
+   * [Dr. Memory: the memory debugger](https://github.com/DynamoRIO/drmemory)
 </details>
 
 ### Capture the Flags & Wargames
@@ -127,4 +129,5 @@ This is a curation of resources created by others and notes that I have taken re
    * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity)
    * [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries)
    * [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries)
+   * [Awesome List of Exploit Development Resources](https://github.com/cranelab/exploit-development)
 </details>
