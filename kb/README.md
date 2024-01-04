@@ -113,9 +113,11 @@ This is a curation of resources created by others and notes that I have taken re
 
 ## Other Awesome Resources
 
-### Twitter/X posts
+<details>
+ <summary>Awesome Twitter/X Posts</summary>
 
-* [A list of Bug Bounty Platforms](https://twitter.com/hetmehtaa/status/1735023393211302112)
+ * [A list of Bug Bounty Platforms](https://twitter.com/hetmehtaa/status/1735023393211302112)
+</details>
 
 <details>
  <summary>Awesome list of security firms/organizations</summary>
@@ -128,9 +130,12 @@ This is a curation of resources created by others and notes that I have taken re
  * Kaspersky: https://usa.kaspersky.com/
  * Rapid7: https://www.rapid7.com/
  * Booz Allen Hamilton: https://www.boozallen.com/
+     * Note that [this firm is a bit sus](https://en.wikipedia.org/wiki/Booz_Allen_Hamilton#Controversies_and_leaks), but they do interesting work nonetheless.
  * DarkTrace Security: https://darktrace.com/
  * Tenable: https://www.tenable.com/
  * Fortinet: https://www.fortinet.com/
+ * Cellebrite: https://cellebrite.com/en/home/
+     * Note that [this firm is a bit sus](https://www.accessnow.org/what-spy-firm-cellebrite-cant-hide-from-investors/), but they do interesting work nonetheless.
 
  This list borrows from [ESecurityPlanet.com](https://www.esecurityplanet.com/products/top-cybersecurity-companies/) to some extent.  
 </details>
@@ -142,4 +147,16 @@ This is a curation of resources created by others and notes that I have taken re
    * [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries)
    * [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries)
    * [Awesome List of Exploit Development Resources](https://github.com/cranelab/exploit-development)
+   * [Awesome CTF Checklist by "ZeroDayTea"](https://github.com/ZeroDayTea/CTF-Checklist)
+   * [Awesome Bug Bounty checklist/toolkit list/public programme list by "sehno"](https://github.com/sehno/Bug-bounty/)
+   * [Awesome Bug Bounty cheatsheet by "m0chan"](https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html)
+</details>
+
+<details>
+ <summary>Awesome CTF/Bug Bounty GitBooks</summary>
+
+ * [Bug Hunter Handbook by "gowthams"](https://gowthams.gitbook.io/)
+ * [CTF Playbook by "fareedfauzi"](https://fareedfauzi.gitbook.io/ctf-playbook/)
+ * HackTricks: [https://book.hacktricks.xyz/](https://book.hacktricks.xyz/)
+ * Oh Shint!: [https://ohshint.gitbook.io/oh-shint-its-a-blog/](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
 </details>
