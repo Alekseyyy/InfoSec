@@ -48,7 +48,7 @@ This is a curation of resources created by others and notes that I have taken re
 * CTF Sites: [https://ctfsites.github.io/](https://ctfsites.github.io/)
 
 <details>
-  <summary>Android Reverse Engineering</summary>
+  <summary>Mobile Phone DFIR/Reversing</summary>
 
   * KGB Messenger: [https://github.com/tlamb96/kgb_messenger](https://github.com/tlamb96/kgb_messenger)
   * maldr0id's "Not so boring Android malware" samples: [https://maldroid.github.io/android-malware-samples/](https://maldroid.github.io/android-malware-samples/)
@@ -56,6 +56,7 @@ This is a curation of resources created by others and notes that I have taken re
   * OWASP's "UnCrackable Mobile Apps": [https://github.com/OWASP/owasp-mastg/tree/master/Crackmes](https://github.com/OWASP/owasp-mastg/tree/master/Crackmes)
   * CyberTruck Challenge 19: [https://github.com/nowsecure/cybertruckchallenge19](https://github.com/nowsecure/cybertruckchallenge19)
   * CyberTruck Challenge 22: [https://github.com/nowsecure/cybertruckchallenge22](https://github.com/nowsecure/cybertruckchallenge22)
+  * Belkasoft CTF: with a focus on mobile forensics [https://belkasoft.com/ctf](https://belkasoft.com/ctf)
 </details>
 
 ## Maintenance & Systems Administration
@@ -136,6 +137,7 @@ This is a curation of resources created by others and notes that I have taken re
  * Fortinet: https://www.fortinet.com/
  * Cellebrite: https://cellebrite.com/en/home/
      * Note that [this firm is a bit sus](https://www.accessnow.org/what-spy-firm-cellebrite-cant-hide-from-investors/), but they do interesting work nonetheless.
+  * Belkasoft: https://belkasoft.com/
 
  This list borrows from [ESecurityPlanet.com](https://www.esecurityplanet.com/products/top-cybersecurity-companies/) to some extent.  
 </details>
