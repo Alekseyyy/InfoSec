@@ -124,6 +124,10 @@ This is a curation of resources created by others and notes that I have taken re
  <summary>Awesome list of security firms/organizations</summary>
 
  * ManTech: https://www.mantech.com/
+ * Immunity Inc: https://immunityinc.com/
+ * Core Security: https://www.coresecurity.com/
+ * Cobalt Labs: https://www.cobalt.io/
+     * Not to be confused with [Cobalt Strike](https://www.cobaltstrike.com/) ;-)
  * HBGary (now defunct): http://web.archive.org/web/20120504003249/http://www.hbgary.com/
  * Mandiant: https://www.mandiant.com/
  * MAGNET Forensics: https://www.magnetforensics.com/
