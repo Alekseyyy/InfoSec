@@ -145,6 +145,7 @@ This is a curation of resources created by others and notes that I have taken re
  * Cellebrite: https://cellebrite.com/en/home/
      * Note that [this firm is a bit sus](https://www.accessnow.org/what-spy-firm-cellebrite-cant-hide-from-investors/), but they do interesting work nonetheless.
   * Belkasoft: https://belkasoft.com/
+  * GoSecure (previously CounterTack): https://www.gosecure.net/
 
  This list borrows from [ESecurityPlanet.com](https://www.esecurityplanet.com/products/top-cybersecurity-companies/) to some extent.  
 </details>
