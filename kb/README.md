@@ -7,7 +7,7 @@ This is a curation of resources created by others and notes that I have taken re
 
 * [H*cking Resources]()
   * [Capture the Flags & Wargames]()
-* [Maintenance & Systems Administration]()
+* [Automatiion & Systems Administration]()
   * [Programming Tidbits]()
   * [Metasploit Setup and Configuration]()
 * [Machine Learning]()
@@ -59,16 +59,19 @@ This is a curation of resources created by others and notes that I have taken re
   * Belkasoft CTF: with a focus on mobile forensics [https://belkasoft.com/ctf](https://belkasoft.com/ctf)
 </details>
 
-## Maintenance & Systems Administration
+## Automation & Systems Administration
 
 * [AlgoVPN: Custom VPN Deployment Solutions](https://github.com/trailofbits/algo)
 * [How to create VPN on a VPS with Ubuntu](https://www.host-telecom.com/guides/how-to-create-vpn-on-a-vps-with-ubuntu/)
 * [hackingtutorials.org article on setting up penetration testing tools on a VPS/dedicated server](https://www.hackingtutorials.org/general-tutorials/penetration-testing-cloud/)
+* [AutoSploit tool by "NullArray"](https://github.com/NullArray/AutoSploit)
 
 <details>
  <summary>Programming Tidbits</summary>
 
  * [opensource.com: You don't know Bash: An introduction to Bash arrays](https://opensource.com/article/18/5/you-dont-know-bash-intro-bash-arrays)
+ * [How to create a Python library](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f)
+ * [Setup a python script as a service through systemctl/systemd](https://medium.com/codex/setup-a-python-script-as-a-service-through-systemctl-systemd-f0cc55a42267)
 </details>
 
 <details>
