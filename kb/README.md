@@ -75,6 +75,13 @@ This is a curation of resources created by others and notes that I have taken re
 </details>
 
 <details>
+ <summary>Nmap and Port Scanning</summary>
+
+ * [Running a quick NMAP scan to inventory my network](https://www.redhat.com/sysadmin/quick-nmap-inventory)
+ * [Nmap Host Discovery: The Ultimate Guide](https://www.device42.com/blog/2023/03/29/nmap-host-discovery-the-ultimate-guide/)
+</details>
+
+<details>
  <summary>Metasploit Setup and Configuration</summary>
  
   * [Fedora Project's Wiki Entry on Metasploit PostgreSQL Setup](https://fedoraproject.org/wiki/Metasploit_Postgres_Setup)
