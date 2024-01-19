@@ -3,21 +3,21 @@
 
 This is a curation of resources created by others and notes that I have taken regarding cybersecurity and related fields.
 
-### Table of contents
+### Contents at a glance
 
-* [H*cking Resources]()
-  * [Capture the Flags & Wargames]()
-* [Automatiion & Systems Administration]()
-  * [Programming Tidbits]()
-  * [Metasploit Setup and Configuration]()
-* [Machine Learning]()
-* [Academic Papers]()
-   * [Digital Forensics and Incident Response]()
-   * [Psychoinformatics and Data Science in Cybersecurity]()
-* [Other Awesome Resources]()
-  * [Twitter/X Posts]()
-  * [Awesome Security Firms/Organizations]()
-  * [Awesome GitHubs]()
+* H*cking Resources
+  * Capture the Flags & Wargames
+* Automatiion & Systems Administration
+  * Programming Tidbits
+  * Metasploit Setup and Configuration
+* Machine Learning
+* Academic Papers
+   * Digital Forensics and Incident Response
+   * Psychoinformatics and Data Science in Cybersecurity
+* Other Awesome Resources
+  * Twitter/X Posts
+  * Awesome Security Firms/Organizations
+  * Awesome GitHubs
 
 ## H*cking Resources
 
@@ -65,6 +65,8 @@ This is a curation of resources created by others and notes that I have taken re
 * [How to create VPN on a VPS with Ubuntu](https://www.host-telecom.com/guides/how-to-create-vpn-on-a-vps-with-ubuntu/)
 * [hackingtutorials.org article on setting up penetration testing tools on a VPS/dedicated server](https://www.hackingtutorials.org/general-tutorials/penetration-testing-cloud/)
 * [AutoSploit tool by "NullArray"](https://github.com/NullArray/AutoSploit)
+* [Go Beyond Google: The Best Alternative Search Engines](https://www.pcmag.com/picks/go-beyond-google-best-alternative-search-engines)
+  * In our opinion, good alternatives to Google Search are: [DuckDuckGo](https://duckduckgo.com/), [Presearch](https://presearch.com/), [Microsoft Bing](https://www.bing.com), and (maybe) [Yahoo! Search](https://search.yahoo.com/).
 
 <details>
  <summary>Programming Tidbits</summary>
