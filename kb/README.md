@@ -3,17 +3,15 @@
 
 This is a curation of resources created by others and notes that I have taken regarding cybersecurity and related fields.
 
-### Contents at a glance
+## Contents at a glance
 
 * H*cking Resources
-  * Capture the Flags & Wargames
+  * CTF & Wargames List
 * Automatiion & Systems Administration
-  * Programming Tidbits
-  * Metasploit Setup and Configuration
 * Machine Learning
-* Academic Papers
-   * Digital Forensics and Incident Response
-   * Psychoinformatics and Data Science in Cybersecurity
+* Academic Publications
+   * DFIR Publications
+   * Psychoinformatics & Data Science
 * Other Awesome Resources
   * Twitter/X Posts
   * Awesome Security Firms/Organizations
@@ -174,8 +172,9 @@ This is a curation of resources created by others and notes that I have taken re
 <details>
  <summary>Awesome CTF/Bug Bounty GitBooks</summary>
 
- * [Bug Hunter Handbook by "gowthams"](https://gowthams.gitbook.io/)
- * [CTF Playbook by "fareedfauzi"](https://fareedfauzi.gitbook.io/ctf-playbook/)
+ * Bug Hunter Handbook by "gowthams:" [https://gowthams.gitbook.io/](https://gowthams.gitbook.io/)
+ * CTF Playbook by "fareedfauzi:" [https://fareedfauzi.gitbook.io/ctf-playbook/](https://fareedfauzi.gitbook.io/ctf-playbook/)
  * HackTricks: [https://book.hacktricks.xyz/](https://book.hacktricks.xyz/)
  * Oh Shint!: [https://ohshint.gitbook.io/oh-shint-its-a-blog/](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
+ * The Hacker Playbook: [https://www.thehacker.recipes](https://www.thehacker.recipes)
 </details>
