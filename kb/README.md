@@ -31,6 +31,14 @@ This is a curation of resources created by others and notes that I have taken re
    * [Automatic Exploit Generation: First of its Kind (Zhu 2019)](https://claudiazhu.medium.com/automatic-exploit-generation-first-of-its-kind-991c68da0833)
    * [autoBOF: a Journey into Automation, Exploit Development, and Buffer Overflows](https://0x00sec.org/t/autobof-a-journey-into-automation-exploit-development-and-buffer-overflows/13415)
    * [Automatic Exploit Prevention Technology](https://media.kaspersky.com/en/business-security/kaspersky-automatic-exploit-prevention-whitepaper.pdf)
+   * [BishopFox Top 9 Favorite Fuzzers](https://bishopfox.com/blog/top-9-fuzzers)
+</details>
+
+<details>
+ <summary>Nmap and Port Scanning</summary>
+
+ * [Running a quick NMAP scan to inventory my network](https://www.redhat.com/sysadmin/quick-nmap-inventory)
+ * [Nmap Host Discovery: The Ultimate Guide](https://www.device42.com/blog/2023/03/29/nmap-host-discovery-the-ultimate-guide/)
 </details>
 
 <details>
@@ -72,13 +80,6 @@ This is a curation of resources created by others and notes that I have taken re
  * [opensource.com: You don't know Bash: An introduction to Bash arrays](https://opensource.com/article/18/5/you-dont-know-bash-intro-bash-arrays)
  * [How to create a Python library](https://medium.com/analytics-vidhya/how-to-create-a-python-library-7d5aea80cc3f)
  * [Setup a python script as a service through systemctl/systemd](https://medium.com/codex/setup-a-python-script-as-a-service-through-systemctl-systemd-f0cc55a42267)
-</details>
-
-<details>
- <summary>Nmap and Port Scanning</summary>
-
- * [Running a quick NMAP scan to inventory my network](https://www.redhat.com/sysadmin/quick-nmap-inventory)
- * [Nmap Host Discovery: The Ultimate Guide](https://www.device42.com/blog/2023/03/29/nmap-host-discovery-the-ultimate-guide/)
 </details>
 
 <details>
