@@ -35,10 +35,11 @@ This is a curation of resources created by others and notes that I have taken re
 </details>
 
 <details>
- <summary>Nmap and Port Scanning</summary>
+ <summary>OSINT, Information Gathering, and Scanning</summary>
 
  * [Running a quick NMAP scan to inventory my network](https://www.redhat.com/sysadmin/quick-nmap-inventory)
  * [Nmap Host Discovery: The Ultimate Guide](https://www.device42.com/blog/2023/03/29/nmap-host-discovery-the-ultimate-guide/)
+ * gau: Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl: [https://github.com/lc/gau](https://github.com/lc/gau)
 </details>
 
 <details>
