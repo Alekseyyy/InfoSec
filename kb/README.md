@@ -40,6 +40,7 @@ This is a curation of resources created by others and notes that I have taken re
  * [Running a quick NMAP scan to inventory my network](https://www.redhat.com/sysadmin/quick-nmap-inventory)
  * [Nmap Host Discovery: The Ultimate Guide](https://www.device42.com/blog/2023/03/29/nmap-host-discovery-the-ultimate-guide/)
  * gau: Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl: [https://github.com/lc/gau](https://github.com/lc/gau)
+    * [Gauing+Nuclei for Instant Bounties (Ravaan 2022)](https://infosecwriteups.com/gauing-nuclei-for-instant-bounties-7a8a07979fff)
 </details>
 
 <details>
