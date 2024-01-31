@@ -75,6 +75,7 @@ This is a curation of resources created by others and notes that I have taken re
 * [AutoSploit tool by "NullArray"](https://github.com/NullArray/AutoSploit)
 * [Go Beyond Google: The Best Alternative Search Engines](https://www.pcmag.com/picks/go-beyond-google-best-alternative-search-engines)
   * In our opinion, good alternatives to Google Search are: [DuckDuckGo](https://duckduckgo.com/), [Presearch](https://presearch.com/), [Microsoft Bing](https://www.bing.com), and (maybe) [Yahoo! Search](https://search.yahoo.com/).
+* [DigitalOcean: Nohup Command in Linux](https://www.digitalocean.com/community/tutorials/nohup-command-in-linux)
 
 <details>
  <summary>Programming Tidbits</summary>
