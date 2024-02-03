@@ -49,6 +49,9 @@ This is a curation of resources created by others and notes that I have taken re
    * [Ghidra Basics: Manual Shellcode Analysis and C2 Extraction](https://embee-research.ghost.io/ghidra-basics-shellcode-analysis/)
    * [InfoSec Institute: Free & open source computer forensics tools](https://resources.infosecinstitute.com/topics/digital-forensics/free-open-source-computer-forensics-tools/)
    * [Dr. Memory: the memory debugger](https://github.com/DynamoRIO/drmemory)
+   * [Writing Snort Rules with Examples and Cheat Sheet ("Cyvatar" 2022)](https://cyvatar.ai/write-configure-snort-rules/)
+   * Snort 3 Rule Writing Guide (Last Retrieved c. Feb 2023): [https://docs.snort.org/](https://docs.snort.org/)
+   * [StackOverflow thread (M.S Balagopal, 2010) on how to parse/view Snort log files](https://stackoverflow.com/questions/3477081/how-to-view-snort-log-files)
 </details>
 
 ### Capture the Flags & Wargames
