@@ -79,6 +79,7 @@ This is a curation of resources created by others and notes that I have taken re
 * [Go Beyond Google: The Best Alternative Search Engines](https://www.pcmag.com/picks/go-beyond-google-best-alternative-search-engines)
   * In our opinion, good alternatives to Google Search are: [DuckDuckGo](https://duckduckgo.com/), [Presearch](https://presearch.com/), [Microsoft Bing](https://www.bing.com), and (maybe) [Yahoo! Search](https://search.yahoo.com/).
 * [DigitalOcean: Nohup Command in Linux](https://www.digitalocean.com/community/tutorials/nohup-command-in-linux)
+* [StackOverflow thread (Alexander Mills, 2017) discussing how to interact with SQLite flat files using Bash](https://stackoverflow.com/questions/42245816/non-interactive-sqlite3-usage-from-bash-script)
 
 <details>
  <summary>Programming Tidbits</summary>
