@@ -168,9 +168,10 @@ This is a curation of resources created by others and notes that I have taken re
    * [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries)
    * [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries)
    * [Awesome List of Exploit Development Resources](https://github.com/cranelab/exploit-development)
-   * [Awesome CTF Checklist by "ZeroDayTea"](https://github.com/ZeroDayTea/CTF-Checklist)
-   * [Awesome Bug Bounty checklist/toolkit list/public programme list by "sehno"](https://github.com/sehno/Bug-bounty/)
-   * [Awesome Bug Bounty cheatsheet by "m0chan"](https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html)
+   * [Awesome CTF Checklist by "@ZeroDayTea"](https://github.com/ZeroDayTea/CTF-Checklist)
+   * [Awesome Bug Bounty checklist/toolkit list/public programme list by "@sehno"](https://github.com/sehno/Bug-bounty/)
+   * [Awesome Bug Bounty cheatsheet by "@m0chan"](https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html)
+   * [Awesome Bug Bounty Tools by "@vavkamil"](https://github.com/vavkamil/awesome-bugbounty-tools)
 </details>
 
 <details>
