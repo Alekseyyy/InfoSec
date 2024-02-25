@@ -80,6 +80,7 @@ This is a curation of resources created by others and notes that I have taken re
   * In our opinion, good alternatives to Google Search are: [DuckDuckGo](https://duckduckgo.com/), [Presearch](https://presearch.com/), [Microsoft Bing](https://www.bing.com), and (maybe) [Yahoo! Search](https://search.yahoo.com/).
 * [DigitalOcean: Nohup Command in Linux](https://www.digitalocean.com/community/tutorials/nohup-command-in-linux)
 * [StackOverflow thread (Alexander Mills, 2017) discussing how to interact with SQLite flat files using Bash](https://stackoverflow.com/questions/42245816/non-interactive-sqlite3-usage-from-bash-script)
+* [StackOverflow thread on dealing with "email privacy restrictions."](https://stackoverflow.com/questions/43378060/meaning-of-the-github-message-push-declined-due-to-email-privacy-restrictions)
 
 <details>
  <summary>Programming Tidbits</summary>
