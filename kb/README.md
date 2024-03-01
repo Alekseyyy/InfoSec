@@ -7,8 +7,8 @@ This is a curation of resources created by others and notes that I have taken re
 
 * H*cking Resources
   * CTF & Wargames List
-* Automatiion & Systems Administration
-* Machine Learning
+* Programming & Systems Administration
+* Data Science, AI & Machine Learning
 * Academic Publications
    * DFIR Publications
    * Psychoinformatics & Data Science
@@ -70,7 +70,7 @@ This is a curation of resources created by others and notes that I have taken re
   * Belkasoft CTF: with a focus on mobile forensics [https://belkasoft.com/ctf](https://belkasoft.com/ctf)
 </details>
 
-## Automation & Systems Administration
+## Programming & Systems Administration
 
 * [AlgoVPN: Custom VPN Deployment Solutions](https://github.com/trailofbits/algo)
 * [How to create VPN on a VPS with Ubuntu](https://www.host-telecom.com/guides/how-to-create-vpn-on-a-vps-with-ubuntu/)
@@ -81,6 +81,7 @@ This is a curation of resources created by others and notes that I have taken re
 * [DigitalOcean: Nohup Command in Linux](https://www.digitalocean.com/community/tutorials/nohup-command-in-linux)
 * [StackOverflow thread (Alexander Mills, 2017) discussing how to interact with SQLite flat files using Bash](https://stackoverflow.com/questions/42245816/non-interactive-sqlite3-usage-from-bash-script)
 * [StackOverflow thread on dealing with "email privacy restrictions."](https://stackoverflow.com/questions/43378060/meaning-of-the-github-message-push-declined-due-to-email-privacy-restrictions)
+* [StackOverflow thread: How to compile a Python package to a DLL](https://stackoverflow.com/questions/10859369/how-to-compile-a-python-package-to-a-dll)
 
 <details>
  <summary>Programming Tidbits</summary>
@@ -103,8 +104,9 @@ This is a curation of resources created by others and notes that I have taken re
     
 </details>
 
-## Machine Learning
+## Data Science, AI & Machine Learning
 
+* [Content Analysis: An Introduction to Its Methodology](https://us.sagepub.com/en-us/nam/content-analysis/book258450)
 * [DataCamp's Association Rule Mining in Python Tutorial](https://www.datacamp.com/tutorial/association-rule-mining-python)
 
 ## Academic Publications
@@ -120,6 +122,7 @@ This is a curation of resources created by others and notes that I have taken re
  
  * [Digital Phenotyping and Mobile Sensing: New Developments in Psychoinformatics](https://link.springer.com/book/10.1007/978-3-030-31620-4)
  * [Data Analysis in Forensic Science: A Bayesian Decision Perspective](https://www.wiley.com/en-ca/Data+Analysis+in+Forensic+Science%3A+A+Bayesian+Decision+Perspective-p-9780470998359)
+ * [Content Analysis: An Introduction to Its Methodology](https://us.sagepub.com/en-us/nam/content-analysis/book258450)
 </details>
 
 <details>
