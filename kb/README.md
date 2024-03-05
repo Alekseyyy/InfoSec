@@ -12,6 +12,7 @@ This is a curation of resources created by others and notes that I have taken re
 * Academic Publications
    * DFIR Publications
    * Psychoinformatics & Data Science
+* Infosec Communities
 * Other Awesome Resources
   * Twitter/X Posts
   * Awesome Security Firms/Organizations
@@ -115,6 +116,7 @@ This is a curation of resources created by others and notes that I have taken re
    <summary>Digital Forensics and Incident Response</summary>
 
    * [Integrity, authenticity, non-repudiation, and proof of existence for long-term archiving: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0167404814001849)
+   * [Software Forensics: Everything You Need to Know](https://www.upcounsel.com/software-forensics)
 </details>
 
 <details>
@@ -134,6 +136,27 @@ This is a curation of resources created by others and notes that I have taken re
  * [Automatic Patch-Based Exploit Generation is Possible: Techniques and Implications](http://bitblaze.cs.berkeley.edu/papers/apeg.pdf)
 </details>
 
+## Infosec Communities
+
+* [Science Buddies](https://www.sciencebuddies.org/): it has sections on computer science and cybersecurity!
+
+### Data Science / Machine Learning
+
+* DataScienceCentral.com - Big Data News and Analysis: https://www.datasciencecentral.com/
+
+### DFIR & Reverse Engineering
+
+* DFIR Review (on PubPub): https://dfir.pubpub.org/community
+* Forensic Focus: Digital Forensics & E-Discovery Professionals: https://www.forensicfocus.com/about/
+* AboutDFIR (note that some parts of website don't work): https://aboutdfir.com/jobs/
+* Maltego Community Forum (login required): https://community.maltego.com
+  * Related: https://www.maltego.com/maltego-community/
+* MAGNET Forensics:
+  * MAGNET Virtual Summit: https://magnetvirtualsummit.com
+  * MAGNET Idea Lab: https://magnetidealab.com/
+  * The Auxtera Project (Anti-Sexual Predator): https://theauxteraproject.com/
+  * Artefact Exchange: https://www.magnetforensics.com/artifact-exchange/
+
 ## Other Awesome Resources
 
 <details>
@@ -146,6 +169,7 @@ This is a curation of resources created by others and notes that I have taken re
  <summary>Awesome list of security firms/organizations</summary>
 
  * ManTech: https://www.mantech.com/
+ * GoSecure (previously CounterTack): https://www.gosecure.net/
  * Immunity Inc: https://immunityinc.com/
  * Core Security: https://www.coresecurity.com/
  * Cobalt Labs: https://www.cobalt.io/
@@ -164,9 +188,11 @@ This is a curation of resources created by others and notes that I have taken re
  * Cellebrite: https://cellebrite.com/en/home/
      * Note that [this firm is a bit sus](https://www.accessnow.org/what-spy-firm-cellebrite-cant-hide-from-investors/), but they do interesting work nonetheless.
   * Belkasoft: https://belkasoft.com/
-  * GoSecure (previously CounterTack): https://www.gosecure.net/
+  * Zeidman Consulting: https://www.zeidmanconsulting.com
+    * Related company: SAFE Corporation (Document and Software Analysis tools/services): http://www.safe-corp.com/
+    * Related company: Zeidman Technologies (IoT/RTOS tools): https://zeidman.biz/index.htm
 
- This list borrows from [ESecurityPlanet.com](https://www.esecurityplanet.com/products/top-cybersecurity-companies/) to some extent.  
+ This list borrows from [ESecurityPlanet.com](https://www.esecurityplanet.com/products/top-cybersecurity-companies/).  
 </details>
 
 <details>
