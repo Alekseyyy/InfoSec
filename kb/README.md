@@ -109,6 +109,7 @@ This is a curation of resources created by others and notes that I have taken re
 
 * [Content Analysis: An Introduction to Its Methodology](https://us.sagepub.com/en-us/nam/content-analysis/book258450)
 * [DataCamp's Association Rule Mining in Python Tutorial](https://www.datacamp.com/tutorial/association-rule-mining-python)
+* [briggsby.com article: Internal Link Analysis with Python](https://www.briggsby.com/internal-link-analysis-with-python)
 
 ## Academic Publications
 
