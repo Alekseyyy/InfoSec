@@ -21,6 +21,15 @@ This is a curation of resources created by others and notes that I have taken re
 ## H*cking Resources
 
 <details>
+ <summary>OSINT, Information Gathering, and Scanning</summary>
+
+ * [Running a quick NMAP scan to inventory my network](https://www.redhat.com/sysadmin/quick-nmap-inventory)
+ * [Nmap Host Discovery: The Ultimate Guide](https://www.device42.com/blog/2023/03/29/nmap-host-discovery-the-ultimate-guide/)
+ * gau: Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl: [https://github.com/lc/gau](https://github.com/lc/gau)
+    * [Gauing+Nuclei for Instant Bounties (Ravaan 2022)](https://infosecwriteups.com/gauing-nuclei-for-instant-bounties-7a8a07979fff)
+</details>
+
+<details>
    <summary>Exploit Development, Frameworks and General Software Exploitation</summary>
 
    * [Rhino CVE Proof-of-Concept Exploits](https://github.com/RhinoSecurityLabs/CVEs)
@@ -36,15 +45,6 @@ This is a curation of resources created by others and notes that I have taken re
 </details>
 
 <details>
- <summary>OSINT, Information Gathering, and Scanning</summary>
-
- * [Running a quick NMAP scan to inventory my network](https://www.redhat.com/sysadmin/quick-nmap-inventory)
- * [Nmap Host Discovery: The Ultimate Guide](https://www.device42.com/blog/2023/03/29/nmap-host-discovery-the-ultimate-guide/)
- * gau: Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl: [https://github.com/lc/gau](https://github.com/lc/gau)
-    * [Gauing+Nuclei for Instant Bounties (Ravaan 2022)](https://infosecwriteups.com/gauing-nuclei-for-instant-bounties-7a8a07979fff)
-</details>
-
-<details>
    <summary>Digital Forensics & Incident Response</summary>
 
    * [Ghidra Basics: Manual Shellcode Analysis and C2 Extraction](https://embee-research.ghost.io/ghidra-basics-shellcode-analysis/)
@@ -54,6 +54,25 @@ This is a curation of resources created by others and notes that I have taken re
    * Snort 3 Rule Writing Guide (Last Retrieved c. Feb 2023): [https://docs.snort.org/](https://docs.snort.org/)
    * [StackOverflow thread (M.S Balagopal, 2010) on how to parse/view Snort log files](https://stackoverflow.com/questions/3477081/how-to-view-snort-log-files)
 </details>
+
+<details>
+ <summary>DFIR: Backups and Data Recovery Edition</summary>
+
+  * [Ask Ubuntu (Sept. 29, 2011): Mount encrypted volumes from command line?](https://askubuntu.com/questions/63594/mount-encrypted-volumes-from-command-line)
+  * [r/btrfs: Encrypted system drive RAID 1, possible?](https://www.reddit.com/r/btrfs/comments/10v7bdj/encrypted_system_drive_raid_1_possible/)
+  * [r/VeraCrypt: mount vurtual disk with veracrypt partition](https://www.reddit.com/r/VeraCrypt/comments/j42fuh/mount_vurtual_disk_with_veracrypt_partition/)
+  * [StackExchange - Information Security (Jun. 19, 2021): Veracrypt SSD encryption security analysis vs HDD](https://security.stackexchange.com/questions/251523/veracrypt-ssd-encryption-security-analysis-vs-hdd)
+  * [StackExchange - SuperUser (Apr. 18, 2021): Veracrypt - permanently decrypt a working system drive from another computer and discard the bootloader?](https://superuser.com/questions/1642759/veracrypt-permanently-decrypt-a-working-system-drive-from-another-computer-and)
+  * [YurikSoft: Features of working with images of encrypted disks in Windows](https://www.yuriksoft.com/features-of-working-with-images-of-encrypted-disks-in-windows.html)
+  * [r/datarecovery: Veracrypt encrypted hard disk can't be mounted](https://www.reddit.com/r/datarecovery/comments/spadqs/veracrypt_encrypted_hard_disk_cant_be_mounted/)
+  * [StackExchange - SuperUser (Oct. 18, 2014): Create Virtual Machine from Encase image](https://superuser.com/questions/836891/create-virtual-machine-from-encase-image)
+  * [StackExchange - SuperUser (Dec. 3, 2023): Data Recovery from Veracrypt-Encrypted External Drive After Power Fluctuation [duplicate]](https://superuser.com/questions/1819146/data-recovery-from-veracrypt-encrypted-external-drive-after-power-fluctuation)
+</details>
+
+### BBP/VDP & Crowdsource Penetration Testing
+
+* Cobalt: https://www.cobalt.io/
+* Yogosha: https://yogosha.com/
 
 ### Capture the Flags & Wargames
 
@@ -118,6 +137,9 @@ This is a curation of resources created by others and notes that I have taken re
 
    * [Integrity, authenticity, non-repudiation, and proof of existence for long-term archiving: A survey](https://www.sciencedirect.com/science/article/abs/pii/S0167404814001849)
    * [Software Forensics: Everything You Need to Know](https://www.upcounsel.com/software-forensics)
+   * Abby Whitmarsh's Blog on Graduate Web Science: https://everlastingstudent.wordpress.com/
+     * Some articles on quantitative research of "revenge pornography" https://everlastingstudent.wordpress.com/2015/04/
+   * Journal of Threat Intelligence and Incidence Response: https://digitalcommons.calpoly.edu/jtiir/
 </details>
 
 <details>
