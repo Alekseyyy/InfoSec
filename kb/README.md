@@ -3,21 +3,6 @@
 
 This is a curation of resources created by others and notes that I have taken regarding cybersecurity and related fields.
 
-## Contents at a glance
-
-* H*cking Resources
-  * CTF & Wargames List
-* Programming & Systems Administration
-* Data Science, AI & Machine Learning
-* Academic Publications
-   * DFIR Publications
-   * Psychoinformatics & Data Science
-* Infosec Communities
-* Other Awesome Resources
-  * Twitter/X Posts
-  * Awesome Security Firms/Organizations
-  * Awesome GitHubs
-
 ## H*cking Resources
 
 <details>
@@ -42,6 +27,7 @@ This is a curation of resources created by others and notes that I have taken re
    * [autoBOF: a Journey into Automation, Exploit Development, and Buffer Overflows](https://0x00sec.org/t/autobof-a-journey-into-automation-exploit-development-and-buffer-overflows/13415)
    * [Automatic Exploit Prevention Technology](https://media.kaspersky.com/en/business-security/kaspersky-automatic-exploit-prevention-whitepaper.pdf)
    * [BishopFox Top 9 Favorite Fuzzers](https://bishopfox.com/blog/top-9-fuzzers)
+   * [Nathan Pavlovsky's list of resources for exploit development](https://secnate.github.io/resources/exploit-development/)
 </details>
 
 <details>
@@ -53,6 +39,7 @@ This is a curation of resources created by others and notes that I have taken re
    * [Writing Snort Rules with Examples and Cheat Sheet ("Cyvatar" 2022)](https://cyvatar.ai/write-configure-snort-rules/)
    * Snort 3 Rule Writing Guide (Last Retrieved c. Feb 2023): [https://docs.snort.org/](https://docs.snort.org/)
    * [StackOverflow thread (M.S Balagopal, 2010) on how to parse/view Snort log files](https://stackoverflow.com/questions/3477081/how-to-view-snort-log-files)
+   * [Reverse Engineering Malware Network Protocols with Angr](https://www.securityartwork.es/2018/04/09/reversing-of-malware-network-protocols-with-angr/)
 </details>
 
 <details>
@@ -158,6 +145,7 @@ This is a curation of resources created by others and notes that I have taken re
  * [Automatic Heap Layout Manipulation for Exploitation (Heelan et al 2019)](https://www.usenix.org/conference/usenixsecurity18/presentation/heelan)
  * [Automatic Patch-Based Exploit Generation is Possible: Techniques and Implications](http://bitblaze.cs.berkeley.edu/papers/apeg.pdf)
 </details>
+ * [dayzerosec.com: Getting Started with Exploit Development (Archive)](https://web.archive.org/web/20210522200317/https://dayzerosec.com/blog/2021/02/02/getting-started.html)
 
 ## Infosec Communities
 
