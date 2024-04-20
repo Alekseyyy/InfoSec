@@ -5,6 +5,10 @@ This is a curation of resources created by others and notes that I have taken re
 
 ## H*cking Resources
 
+### General
+
+* [Jayesh Madnani's list of hacking tools for bug bounty](https://www.linkedin.com/posts/jayesh-madnani_bugbountytips-hackerone-bugcrowd-activity-7135158245031055360-Q-A7)
+
 <details>
  <summary>OSINT, Information Gathering, and Scanning</summary>
 
