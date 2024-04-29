@@ -93,6 +93,7 @@ This is a curation of resources created by others and notes that I have taken re
 * [StackOverflow thread (Alexander Mills, 2017) discussing how to interact with SQLite flat files using Bash](https://stackoverflow.com/questions/42245816/non-interactive-sqlite3-usage-from-bash-script)
 * [StackOverflow thread on dealing with "email privacy restrictions."](https://stackoverflow.com/questions/43378060/meaning-of-the-github-message-push-declined-due-to-email-privacy-restrictions)
 * [StackOverflow thread: How to compile a Python package to a DLL](https://stackoverflow.com/questions/10859369/how-to-compile-a-python-package-to-a-dll)
+* [You should use a VPS for Bug Bounty hunting](https://www.pizzapower.me/2020/11/04/you-should-use-a-vps-for-bug-bounty-hunting/): contains a sample bash script to get started h\*cking.
 
 <details>
  <summary>Programming Tidbits</summary>
