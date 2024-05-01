@@ -32,6 +32,7 @@ This is a curation of resources created by others and notes that I have taken re
    * [Automatic Exploit Prevention Technology](https://media.kaspersky.com/en/business-security/kaspersky-automatic-exploit-prevention-whitepaper.pdf)
    * [BishopFox Top 9 Favorite Fuzzers](https://bishopfox.com/blog/top-9-fuzzers)
    * [Nathan Pavlovsky's list of resources for exploit development](https://secnate.github.io/resources/exploit-development/)
+   * [ChatGPTScan: A white box code scan powered by ChatGPT](https://github.com/YulinSec/ChatGPTScanner)
 </details>
 
 <details>
