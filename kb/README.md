@@ -22,6 +22,7 @@ This is a curation of resources created by others and notes that I have taken re
    <summary>Exploit Development, Frameworks and General Software Exploitation</summary>
 
    * [Rhino CVE Proof-of-Concept Exploits](https://github.com/RhinoSecurityLabs/CVEs)
+   * _The Fuzzing Book: Tools and Techniques for Generating Software Tests_ \([Zeller et al. n.d.](https://www.fuzzingbook.org/)\) \[FREE ONLINE BOOK\]
    * [WAF community bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses)
    * [FOFA Search Engine Library](https://github.com/FofaInfo/Awesome-FOFA)
    * [nuclei templates for WordPress websites](https://github.com/topscoder/nuclei-wordfence-cve)
@@ -33,6 +34,7 @@ This is a curation of resources created by others and notes that I have taken re
    * [BishopFox Top 9 Favorite Fuzzers](https://bishopfox.com/blog/top-9-fuzzers)
    * [Nathan Pavlovsky's list of resources for exploit development](https://secnate.github.io/resources/exploit-development/)
    * [ChatGPTScan: A white box code scan powered by ChatGPT](https://github.com/YulinSec/ChatGPTScanner)
+   * [dayzerosec.com: Getting Started with Exploit Development (Archive)](https://web.archive.org/web/20210522200317/https://dayzerosec.com/blog/2021/02/02/getting-started.html)
 </details>
 
 <details>
@@ -151,8 +153,8 @@ This is a curation of resources created by others and notes that I have taken re
  * [Toward an Automatic Exploit Generation Competition for an Undergraduate Binary Reverse Engineering Course (OConnor et al.)](https://raw.githubusercontent.com/tj-oconnor/Publications/main/pdf/iticse2022oconnor.pdf)
  * [Automatic Heap Layout Manipulation for Exploitation (Heelan et al 2019)](https://www.usenix.org/conference/usenixsecurity18/presentation/heelan)
  * [Automatic Patch-Based Exploit Generation is Possible: Techniques and Implications](http://bitblaze.cs.berkeley.edu/papers/apeg.pdf)
+ * [A comparison of FFUF and Wfuzz for fuzz testing web applications](https://www.doria.fi/bitstream/handle/10024/181265/mattsson_matheos.pdf)
 </details>
- * [dayzerosec.com: Getting Started with Exploit Development (Archive)](https://web.archive.org/web/20210522200317/https://dayzerosec.com/blog/2021/02/02/getting-started.html)
 
 ## Infosec Communities
 
