@@ -198,6 +198,7 @@ This is a curation of resources created by others and notes that I have taken re
  * Mandiant: https://www.mandiant.com/
  * MAGNET Forensics: https://www.magnetforensics.com/
  * CrowdStrike: https://www.crowdstrike.com/en-us/
+     * This firm is a bit sus (see [this article](https://www.upi.com/Top_News/World-News/2024/07/19/IT-failure-hits-causes-chaos-around-world/2531721376791))
  * Kaspersky: https://usa.kaspersky.com/
  * Rapid7: https://www.rapid7.com/
  * Booz Allen Hamilton: https://www.boozallen.com/
@@ -213,6 +214,8 @@ This is a curation of resources created by others and notes that I have taken re
     * Related company: Zeidman Technologies (IoT/RTOS tools): https://zeidman.biz/index.htm
   * iThreats.net (archive): http://web.archive.org/web/20200804112011/http://ithreats.net/
   * CQR Company: https://cqr.company/
+  * Volexity: https://www.volexity.com/company/about/
+  * Asset Intertech: https://www.asset-intertech.com/
 
  This list borrows from [ESecurityPlanet.com](https://www.esecurityplanet.com/products/top-cybersecurity-companies/).  
 </details>
