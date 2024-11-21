@@ -8,6 +8,7 @@ This is a curation of resources created by others and notes that I have taken re
 ### General
 
 * [Jayesh Madnani's list of hacking tools for bug bounty](https://www.linkedin.com/posts/jayesh-madnani_bugbountytips-hackerone-bugcrowd-activity-7135158245031055360-Q-A7)
+* [Reddit Thread: Looking for a good "do not scan" list](https://www.reddit.com/r/AskNetsec/comments/5v8qsx/looking_for_a_good_do_not_scan_list/)
 
 <details>
  <summary>OSINT, Information Gathering, and Scanning</summary>
