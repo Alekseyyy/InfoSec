@@ -51,6 +51,7 @@ This is a curation of resources created by others and notes that I have taken re
    * Snort 3 Rule Writing Guide (Last Retrieved c. Feb 2023): [https://docs.snort.org/](https://docs.snort.org/)
    * [StackOverflow thread (M.S Balagopal, 2010) on how to parse/view Snort log files](https://stackoverflow.com/questions/3477081/how-to-view-snort-log-files)
    * [Reverse Engineering Malware Network Protocols with Angr](https://www.securityartwork.es/2018/04/09/reversing-of-malware-network-protocols-with-angr/)
+   * [Reddit thread discussing sources of Benignware and their datasets](https://www.reddit.com/r/Malware/comments/bu2tvc/benignware_dataset/)
 </details>
 
 <details>
@@ -102,6 +103,7 @@ This is a curation of resources created by others and notes that I have taken re
 * [StackOverflow thread: How to compile a Python package to a DLL](https://stackoverflow.com/questions/10859369/how-to-compile-a-python-package-to-a-dll)
 * [You should use a VPS for Bug Bounty hunting](https://www.pizzapower.me/2020/11/04/you-should-use-a-vps-for-bug-bounty-hunting/): contains a sample bash script to get started h\*cking.
 * Google's Linux Shell Scripting Style Guide: [https://google.github.io/styleguide/shellguide.html](https://google.github.io/styleguide/shellguide.html)
+* [DC Programming: The Optimization Method You Never Knew You Had To Know](https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/06d402cb88ff2cdb8e69b66a5c864b92_MIT15_097S12_proj5.pdf)
 
 <details>
  <summary>Programming Tidbits</summary>
@@ -126,9 +128,18 @@ This is a curation of resources created by others and notes that I have taken re
 
 ## Data Science, AI & Machine Learning
 
+* [Stat 260/CS 294: Bayesian Modeling and Inference (Spring 2010)](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/)
 * [Content Analysis: An Introduction to Its Methodology](https://us.sagepub.com/en-us/nam/content-analysis/book258450)
 * [DataCamp's Association Rule Mining in Python Tutorial](https://www.datacamp.com/tutorial/association-rule-mining-python)
 * [briggsby.com article: Internal Link Analysis with Python](https://www.briggsby.com/internal-link-analysis-with-python)
+* [MIT Article: diamond open access journals for Open Data Day](https://mitpress.mit.edu/diamond-open-access-journals-for-open-data-day/)
+* [Economist at Large: Finance and Economics for the Real World](https://web.archive.org/web/20171210044607/http://economistatlarge.com/)
+
+## Academic Programmes
+
+* [University of Delaware: Cybersecurity Engineering Major](https://www.ece.udel.edu/academics/undergraduate/cybersecurity-engineering-major/)
+* [NICCS Education & Training Catalog](https://niccs.cisa.gov/education-training/catalog)
+* [NIST List of Free and Low Cost Online Cybersecurity Learning Content](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
 
 ## Academic Publications
 
