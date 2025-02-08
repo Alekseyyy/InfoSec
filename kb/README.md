@@ -39,6 +39,8 @@ This is a curation of resources created by others and notes that I have taken re
    * [Nathan Pavlovsky's list of resources for exploit development](https://secnate.github.io/resources/exploit-development/)
    * [ChatGPTScan: A white box code scan powered by ChatGPT](https://github.com/YulinSec/ChatGPTScanner)
    * [dayzerosec.com: Getting Started with Exploit Development (Archive)](https://web.archive.org/web/20210522200317/https://dayzerosec.com/blog/2021/02/02/getting-started.html)
+   * __Huntr__ Marketplace for selling exploits against AI/ML systems: [https://huntr.com/](https://huntr.com/)
+   * 
 </details>
 
 <details>
@@ -55,7 +57,7 @@ This is a curation of resources created by others and notes that I have taken re
 </details>
 
 <details>
- <summary>DFIR: Backups and Data Recovery Edition</summary>
+ <summary>Backups and Data Recovery</summary>
 
   * [Ask Ubuntu (Sept. 29, 2011): Mount encrypted volumes from command line?](https://askubuntu.com/questions/63594/mount-encrypted-volumes-from-command-line)
   * [r/btrfs: Encrypted system drive RAID 1, possible?](https://www.reddit.com/r/btrfs/comments/10v7bdj/encrypted_system_drive_raid_1_possible/)
@@ -134,6 +136,7 @@ This is a curation of resources created by others and notes that I have taken re
 * [briggsby.com article: Internal Link Analysis with Python](https://www.briggsby.com/internal-link-analysis-with-python)
 * [MIT Article: diamond open access journals for Open Data Day](https://mitpress.mit.edu/diamond-open-access-journals-for-open-data-day/)
 * [Economist at Large: Finance and Economics for the Real World](https://web.archive.org/web/20171210044607/http://economistatlarge.com/)
+* __Data & Sons:__ Marketplace for selling datasets: [https://www.dataandsons.com/](https://www.dataandsons.com/)
 
 ## Academic Programmes
 
